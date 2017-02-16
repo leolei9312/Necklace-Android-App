@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_f9754d1301403455afa2f1fffc45af985e399031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_32a564c983b8dc5fc0250f13b5da82fa5f29c986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1352fbda56e17c782163db7b6a473bef6e179a46">
+        <dex dex="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_350846bf01bef844c8a0acb19dd9fc2dc95d329b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jjoe64-graphview-4.0.1_7f92ddcd8366f8b78394dfd8866e0fd10b745c8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_c4b8aa3cf86221e2ca3134321be2008b72a27142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_c790b9f3da1d6a767f6e0d26bd7147b04fe3901c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5b0bae241f231e86318fd0302e7bf90cce229988">
+        <dex dex="/Users/leo/Desktop/495MHealth/Necklace/RefCode/NeckMonitor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4aad493167018ff7f214d37c54d994545996fdd/classes.dex" />
+    </item>
+
+</items>
